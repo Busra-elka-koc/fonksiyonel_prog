@@ -1,0 +1,46 @@
+{
+  "sehirBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🌊", "☕"],
+      "answer": "rize",
+      "hint": "Çayıyla ünlü Karadeniz şehri"
+    },
+    {
+      "id": 2,
+      "emojis": ["🧿", "🕌"],
+      "answer": "bursa",
+      "hint": "Osmanlı'nın ilk başkenti"
+    },
+    {
+      "id": 3,
+      "emojis": ["🌞", "🏖️"],
+      "answer": "antalya",
+      "hint": "Türkiye'nin turizm başkenti"
+    },
+    {
+      "id": 4,
+      "emojis": ["🐑", "🧶"],
+      "answer": "ankara",
+      "hint": "Tiftik keçisi ve başkent"
+    },
+    {
+      "id": 5,
+      "emojis": ["🌺", "🏺"],
+      "answer": "çanakkale",
+      "hint": "Boğazı ve seramiği ile ünlü şehir"
+    },
+    {
+      "id": 6,
+      "emojis": ["🌶️", "🥘"],
+      "answer": "gaziantep",
+      "hint": "Mutfağı UNESCO listesinde olan şehir"
+    },
+    {
+      "id": 7,
+      "emojis": ["⛵", "🌉"],
+      "answer": "istanbul",
+      "hint": "İki kıtayı birleştiren şehir"
+    }
+  ]
+}

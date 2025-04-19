@@ -1,0 +1,317 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "Bölüm 1",
+      "questions": [
+        {
+          "id": 1,
+          "emojis": ["🏗️", "🏭", "🏖️"],
+          "answer": "KOCAELİ",
+          "hint": "Sanayi, inşaat ve doğal güzelliklerle tanınan bir şehir",
+          "category":"city"
+        },
+        {
+          "id": 2,
+          "emojis": ["☀️", "🥩", "🏞️", "🥵"],
+          "answer": "ADANA",
+          "hint": "Sıcak iklimi, kebapları ve doğal güzellikleriyle ünlü şehir"
+        },
+        {
+          "id": 3,
+          "emojis": ["🗽", "🏙️", "🛍️"],
+          "answer": "NEW YORK",
+          "hint": "Özgürlük Anıtı, gökdelenler ve alışveriş olanaklarıyla bilinir"
+        },
+        {
+          "id": 4,
+          "emojis": ["🏙️", "🎥", "🍔"],
+          "answer": "AMERİKA",
+          "hint": "Hollywood filmleri ve hamburgerleri ile tanınan ülke"
+        },
+        {
+          "id": 5,
+          "emojis": ["☕", "🏺", "🐒"],
+          "answer": "ETİYOPYA",
+          "hint": "Kahvesi, tarihi eserleri ve vahşi yaşamıyla ünlü ülke"
+        },
+        {
+          "id": 6,
+          "emojis": ["🏰", "🥟", "🎭"],
+          "answer": "POLONYA",
+          "hint": "Tarihi kaleleri, pierogi adlı yemeği ve zengin kültürel hayatıyla bilinen ülke"
+        },
+        {
+          "id": 7,
+          "emojis": ["🚢", "🧊", "💔"],
+          "answer": "TİTANİK",
+          "hint": "Buzdağı ile çarpışması sonucu batan ünlü gemi filmi"
+        },
+        {
+          "id": 8,
+          "emojis": ["🎲", "🌴", "🐍"],
+          "answer": "JUMANJI",
+          "hint": "Orman temalı fantastik bir macera oyununu konu alan film"
+        },
+        {
+          "id": 9,
+          "emojis": ["🏡", "💛", "🍩"],
+          "answer": "SİMPSONS",
+          "hint": "Sarı tenli karakterleri ve eğlenceli hikayeleriyle tanınan animasyon dizisi"
+        },
+        {
+          "id": 10,
+          "emojis": ["👋", "✋", "🙆‍♂️"],
+          "answer": "ELİNİ SALLASAN ELLİSİ",
+          "hint": "Çok sayıda olan, kolayca bulunan durum veya kişiler için kullanılan deyim"
+        },
+        {
+          "id": 11,
+          "emojis": ["👀", "⚖️"],
+          "answer": "GÖZ VAR NİZAM VAR",
+          "hint": "Düzenin ve kuralların olduğu, her şeyin gözetim altında tutulduğu anlamında kullanılan ifade"
+        },
+        {
+          "id": 12,
+          "emojis": ["😈", "🦵", "🩼"],
+          "answer": "ŞEYTANIN BACAĞINI KIRMAK",
+          "hint": "Çok denenen bir şeyde sonunda başarıya ulaşmak anlamında kullanılan deyim"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bölüm 2",
+      "questions": [
+        {
+          "id": 13,
+          "emojis": ["🏙️", "🕌", "🌉"],
+          "answer": "İSTANBUL",
+          "hint": "Tarihi camileri, boğaz köprüsü ve metropol yaşamıyla tanınan şehir"
+        },
+        {
+          "id": 14,
+          "emojis": ["♨️", "🥖", "🧈"],
+          "answer": "AFYONKARAHİSAR",
+          "hint": "Kaplıcaları, sucuğu ve kaymağı ile ünlü şehir"
+        },
+        {
+          "id": 15,
+          "emojis": ["🏙️", "🍁", "🏒"],
+          "answer": "TORONTO",
+          "hint": "Kanada'nın en büyük şehirlerinden biri, yaprak ve hokey ile simgelenir"
+        },
+        {
+          "id": 16,
+          "emojis": ["🏛️", "🦙", "🌄"],
+          "answer": "PERU",
+          "hint": "Eski uygarlıkların kalıntıları, lama hayvanları ve dağlık manzaraları ile bilinir"
+        },
+        {
+          "id": 17,
+          "emojis": ["🌄", "🚢", "🐟"],
+          "answer": "NORVEÇ",
+          "hint": "Fiyortları, Viking gemileri ve balıkçılık kültürüyle tanınır"
+        },
+        {
+          "id": 18,
+          "emojis": ["🍫", "🍟", "🏰"],
+          "answer": "BELÇİKA",
+          "hint": "Çikolatası, patates kızartması ve tarihi şatolarıyla ünlü ülke"
+        },
+        {
+          "id": 19,
+          "emojis": ["💊", "🕶️", "💻"],
+          "answer": "THE MATRIX",
+          "hint": "Gerçeklik algısını sorgulayan, bilim kurgu temalı film serisi"
+        },
+        {
+          "id": 20,
+          "emojis": ["🔨", "⚡", "🌈"],
+          "answer": "THOR RAGNAROK",
+          "hint": "Mitolojik tanrı, süper kahraman ve renkli bir evrenle ilgili Marvel filmi"
+        },
+        {
+          "id": 21,
+          "emojis": ["🎤", "🏀", "💃"],
+          "answer": "HIGH SCHOOL MUSICAL",
+          "hint": "Gençlerin okul hayatını ve müzikal yeteneklerini konu alan film serisi"
+        },
+        {
+          "id": 22,
+          "emojis": ["👃", "😒"],
+          "answer": "BURUN KIVIRMAK",
+          "hint": "Beğenmeme veya onaylamama ifadesi olarak kullanılan hareket"
+        },
+        {
+          "id": 23,
+          "emojis": ["🦶", "🛏️"],
+          "answer": "AYAĞINI YORGANINA GÖRE UZAT",
+          "hint": "İmkanlar dahilinde hareket etmek anlamında kullanılan deyim"
+        },
+        {
+          "id": 24,
+          "emojis": ["🪡", "🕳️"],
+          "answer": "İĞNEYLE KUYU KAZMAK",
+          "hint": "Çok zor ve uzun sürecek işlere girişmek anlamında kullanılan deyim"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bölüm 3",
+      "questions": [
+        {
+          "id": 25,
+          "emojis": ["🥓", "🌰", "🏂"],
+          "answer": "BURSA",
+          "hint": "İskender kebap, kestane şekeri ve Uludağ kayak merkeziyle tanınan şehir"
+        },
+        {
+          "id": 26,
+          "emojis": ["⛰️", "👑", "🗿"],
+          "answer": "ADIYAMAN",
+          "hint": "Nemrut Dağı ve tarihi heykelleri ile ünlü şehir"
+        },
+        {
+          "id": 27,
+          "emojis": ["🕌", "🛺"],
+          "answer": "DELHİ",
+          "hint": "Tarihi camileri ve trafiğinde rikşaların yoğun olduğu şehir"
+        },
+        {
+          "id": 28,
+          "emojis": ["☕", "💃🏻", "🏝️"],
+          "answer": "KOLOMBİYA",
+          "hint": "Kahvesi, samba dansı ve Karayip kıyıları ile bilinen ülke"
+        },
+        {
+          "id": 29,
+          "emojis": ["🏝️", "🐘", "🍜"],
+          "answer": "TAYLAND",
+          "hint": "Tropikal plajları, fil turları ve leziz sokak yemekleri ile tanınır"
+        },
+        {
+          "id": 30,
+          "emojis": ["🦜", "🌴", "🏄‍♂️"],
+          "answer": "KOSTA RİKA",
+          "hint": "Bol türdeki egzotik kuşları, tropikal ormanları ve sörf yapılabilen sahilleri ile ünlü ülke"
+        },
+        {
+          "id": 31,
+          "emojis": ["🤖", "🌆", "🚔"],
+          "answer": "BLADE RUNNER",
+          "hint": "Gelecekteki distopik bir dünyada robotlar ve polislerin öyküsünü anlatan film"
+        },
+        {
+          "id": 32,
+          "emojis": ["🚀", "⭐️", "⚔️"],
+          "answer": "STAR WARS",
+          "hint": "Uzayda geçen epik savaşları ve zengin karakter kadrosunu konu alan bilim kurgu serisi"
+        },
+        {
+          "id": 33,
+          "emojis": ["🌫️", "👀", "💀"],
+          "answer": "THE MIST",
+          "hint": "Yoğun sis altında gizemli yaratıklarla mücadele eden bir grup insanın hikayesi"
+        },
+        {
+          "id": 34,
+          "emojis": ["🍐", "🔥", "😋"],
+          "answer": "ARMUT PİŞ AĞZIMA DÜŞ",
+          "hint": "Bir şeyin kolayca ve çaba sarf etmeden elde edilmesi dileği"
+        },
+        {
+          "id": 35,
+          "emojis": ["🐟", "👤", "🤢"],
+          "answer": "BALIK BAŞTAN KOKAR",
+          "hint": "Bir topluluk veya kurumda sorunların en tepeden başladığını ifade eden deyim"
+        },
+        {
+          "id": 36,
+          "emojis": ["🔪", "🦴"],
+          "answer": "BIÇAK KEMİĞE DAYANDI",
+          "hint": "Bir durumun en zorlu ve dayanılmaz aşamasına gelindiğini belirten deyim"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bölüm 4",
+      "questions": [
+        {
+          "id": 37,
+          "emojis": ["🐕", "🏰", "❄️"],
+          "answer": "SİVAS",
+          "hint": "Kangal köpeği, tarihi yapıları ve soğuk kışları ile tanınan şehir"
+        },
+        {
+          "id": 38,
+          "emojis": ["🎈", "🏜️", "🛎️"],
+          "answer": "NEVŞEHİR",
+          "hint": "Kapadokya bölgesi, sıcak hava balonları ve otel zilleri ile ünlü"
+        },
+        {
+          "id": 39,
+          "emojis": ["🏰", "❄️", "⛪"],
+          "answer": "MOSKOVA",
+          "hint": "Kremlin sarayı, soğuk kışlar ve pravoslav kiliseleri ile bilinen başkent"
+        },
+        {
+          "id": 40,
+          "emojis": ["🗼", "🥖", "🍷"],
+          "answer": "FRANSA",
+          "hint": "Eyfel Kulesi, baget ekmek ve şarap kültürü ile ünlü ülke"
+        },
+        {
+          "id": 41,
+          "emojis": ["🕌", "🏝️", "🍍"],
+          "answer": "MALEZYA",
+          "hint": "İslami mimarisi, tropikal adaları ve ananasları ile tanınan ülke"
+        },
+        {
+          "id": 42,
+          "emojis": ["🎶", "🎮", "📱"],
+          "answer": "GÜNEY KORE",
+          "hint": "K-pop müziği, video oyunları ve teknoloji ürünleri ile bilinen ülke"
+        },
+        {
+          "id": 43,
+          "emojis": ["💵", "🔫", "🌿"],
+          "answer": "NARCOS",
+          "hint": "Uyuşturucu kaçakçılığı, şiddet olayları ve çete savaşlarını konu alan dizi"
+        },
+        {
+          "id": 44,
+          "emojis": ["🚆", "❄️", "🍞"],
+          "answer": "SNOWPIERCER",
+          "hint": "Küresel ısınmayla mücadele sonucu dünya donarken, bir trenin içinde yaşam mücadelesi anlatılır"
+        },
+        {
+          "id": 45,
+          "emojis": ["✋", "🕊️", "🇮🇳"],
+          "answer": "GANDHI",
+          "hint": "Barış ve Hindistan'ın bağımsızlık hareketi ile simgelenen tarihi kişilik"
+        },
+        {
+          "id": 46,
+          "emojis": ["🔩", "✨"],
+          "answer": "İŞLEYEN DEMİR IŞILDAR",
+          "hint": "Sürekli çalışan veya iş yapan kişinin başarılı olacağını ifade eden deyim"
+        },
+        {
+          "id": 47,
+          "emojis": ["💦", "🔨", "🥵"],
+          "answer": "ALIN TERİ DÖKMEK",
+          "hint": "Zorlu fiziksel veya zihinsel çaba gerektiren işlerde çalışmak"
+        },
+        {
+          "id": 48,
+          "emojis": ["🐦", "🍇", "🤐"],
+          "answer": "DUT YEMİŞ BÜLBÜLE DÖNMEK",
+          "hint": "Söyleyecek sözü olmaması nedeniyle suskun kalmak anlamında kullanılan deyim"
+        }
+      ]
+    }
+  ]
+}

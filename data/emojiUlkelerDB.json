@@ -1,0 +1,34 @@
+{
+  "ulkeBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🗽", "🍔"],
+      "answer": "AMERİKA",
+      "hint": "Özgürlük heykeli'nin ülkesi"
+    },
+    {
+      "id": 2,
+      "emojis": ["🎭", "🍝"],
+      "answer": "italya",
+      "hint": "Pizza ve makarnasıyla ünlü ülke"
+    },
+    {
+      "id": 3,
+      "emojis": ["🦘", "🏊‍♂️"],
+      "answer": "avustralya",
+      "hint": "Kangurular ülkesi"
+    },
+    {
+      "id": 4,
+      "emojis": ["⚽", "🏖️"],
+      "answer": "brezilya",
+      "hint": "Futbol ve karnavalların ülkesi"
+    },
+    {
+      "id": 5,
+      "emojis": ["🗻", "🍱"],
+      "answer": "japonya",
+      "hint": "Fuji dağı ve suşinin vatanı"
+    }
+  ]
+}

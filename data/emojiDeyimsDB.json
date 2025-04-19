@@ -1,0 +1,145 @@
+{
+  "deyimBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🪰", "✈️"],
+      "answer": "SİNEK AVLAMAK",
+      "hint": "Boş oturmak, işsiz kalmak",
+      "level": 1
+    },
+    {
+      "id": 2,
+      "emojis": ["👅", "🍯"],
+      "answer": "BAL GİBİ",
+      "hint": "Çok açık, belli",
+      "level": 1
+    },
+    {
+      "id": 3,
+      "emojis": ["👂", "🚶‍♂️"],
+      "answer": "KULAĞINA GİTMEK",
+      "hint": "Bir şeyin duyulması, haber alınması",
+      "level": 1
+    },
+    {
+      "id": 4,
+      "emojis": ["🐜", "🏋️"],
+      "answer": "KARINCA KARARINCA",
+      "hint": "Gücü yettiğince",
+      "level": 1
+    },
+    {
+      "id": 5,
+      "emojis": ["🌊", "💧"],
+      "answer": "DENİZDE DAMLA",
+      "hint": "Çok az, yetersiz miktar",
+      "level": 1
+    },
+    {
+      "id": 1,
+      "emojis": ["🦁", "👑"],
+      "answer": "ASLAN KRAL",
+      "hint": "Disney'in ünlü animasyon filmi"
+    },
+    {
+      "id": 2,
+      "emojis": ["🧊", "💗"],
+      "answer": "titanic",
+      "hint": "Batan gemi ve aşk hikayesi"
+    },
+    {
+      "id": 3,
+      "emojis": ["🧙‍♂️", "💍"],
+      "answer": "yüzüklerin efendisi",
+      "hint": "Orta Dünya'da geçen fantastik seri"
+    },
+    {
+      "id": 4,
+      "emojis": ["🦇", "👨"],
+      "answer": "batman",
+      "hint": "Gotham şehrinin karanlık kahramanı"
+    },
+    {
+      "id": 5,
+      "emojis": ["🏰", "🐉"],
+      "answer": "game of thrones",
+      "hint": "Ejderhalar ve taht savaşları"
+    }
+  ],
+  "sehirBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🌊", "☕"],
+      "answer": "rize",
+      "hint": "Çayıyla ünlü Karadeniz şehri"
+    },
+    {
+      "id": 2,
+      "emojis": ["🧿", "🕌"],
+      "answer": "bursa",
+      "hint": "Osmanlı'nın ilk başkenti"
+    },
+    {
+      "id": 3,
+      "emojis": ["🌞", "🏖️"],
+      "answer": "antalya",
+      "hint": "Türkiye'nin turizm başkenti"
+    },
+    {
+      "id": 4,
+      "emojis": ["🐑", "🧶"],
+      "answer": "ankara",
+      "hint": "Tiftik keçisi ve başkent"
+    },
+    {
+      "id": 5,
+      "emojis": ["🌺", "🏺"],
+      "answer": "çanakkale",
+      "hint": "Boğazı ve seramiği ile ünlü şehir"
+    },
+    {
+      "id": 6,
+      "emojis": ["🌶️", "🥘"],
+      "answer": "gaziantep",
+      "hint": "Mutfağı UNESCO listesinde olan şehir"
+    },
+    {
+      "id": 7,
+      "emojis": ["⛵", "🌉"],
+      "answer": "istanbul",
+      "hint": "İki kıtayı birleştiren şehir"
+    }
+  ],
+  "ulkeBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🗽", "🍔"],
+      "answer": "AMERİKA",
+      "hint": "Özgürlük heykeli'nin ülkesi"
+    },
+    {
+      "id": 2,
+      "emojis": ["🎭", "🍝"],
+      "answer": "italya",
+      "hint": "Pizza ve makarnasıyla ünlü ülke"
+    },
+    {
+      "id": 3,
+      "emojis": ["🦘", "🏊‍♂️"],
+      "answer": "avustralya",
+      "hint": "Kangurular ülkesi"
+    },
+    {
+      "id": 4,
+      "emojis": ["⚽", "🏖️"],
+      "answer": "brezilya",
+      "hint": "Futbol ve karnavalların ülkesi"
+    },
+    {
+      "id": 5,
+      "emojis": ["🗻", "🍱"],
+      "answer": "japonya",
+      "hint": "Fuji dağı ve suşinin vatanı"
+    }
+  ]
+}

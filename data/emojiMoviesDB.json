@@ -1,0 +1,34 @@
+{
+  "filmBulmacalari": [
+    {
+      "id": 1,
+      "emojis": ["🦁", "👑"],
+      "answer": "aslan kral",
+      "hint": "Disney'in ünlü animasyon filmi"
+    },
+    {
+      "id": 2,
+      "emojis": ["🧊", "💗"],
+      "answer": "titanic",
+      "hint": "Batan gemi ve aşk hikayesi"
+    },
+    {
+      "id": 3,
+      "emojis": ["🧙‍♂️", "💍"],
+      "answer": "yüzüklerin efendisi",
+      "hint": "Orta Dünya'da geçen fantastik seri"
+    },
+    {
+      "id": 4,
+      "emojis": ["🦇", "👨"],
+      "answer": "batman",
+      "hint": "Gotham şehrinin karanlık kahramanı"
+    },
+    {
+      "id": 5,
+      "emojis": ["🏰", "🐉"],
+      "answer": "game of thrones",
+      "hint": "Ejderhalar ve taht savaşları"
+    }
+  ]
+}
